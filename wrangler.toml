@@ -1,0 +1,4 @@
+name = "web"
+account_id = "3f8e58ccfd0caf9a966cd82c68c2fe20" # connectvip.workers.dev
+type = "webpack"
+workers_dev = true
